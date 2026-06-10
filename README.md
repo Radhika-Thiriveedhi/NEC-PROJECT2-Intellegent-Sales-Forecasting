@@ -3,6 +3,8 @@
 ## Overview
 
 An end-to-end Business Intelligence and Machine Learning application developed using Python and Streamlit. The system analyzes historical sales data, performs preprocessing, visualizes business trends, forecasts future sales demand, and provides inventory optimization recommendations.
+## Live link
+https://nec-project2-intellegent-sales-xbkt.onrender.com
 
 ## Features
 
